@@ -10,7 +10,7 @@
 
 **🎓 Transform your AI ethics course with real-time crisis simulation**
 
-[🎮 Live Demo](https://your-demo.railway.app) | [📚 Canvas Setup Guide](docs/canvas-integration.md) | [🎥 Classroom Walkthrough](https://youtube.com)
+[📚 Canvas Setup Guide](docs/canvas-integration.md) 
 
 </div>
 
@@ -247,13 +247,13 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 
 - **AI Models**: Meta (Llama), DeepSeek, 01.AI (Yi)
 - **Infrastructure**: Railway, Vast.ai, Padlet
-- **Inspiration**: Papers Please, Frostpunk, This War of Mine
+- **Inspiration**: Deep understanding only comes from lived experiences.
 
 ## 📞 Contact
 
-**Created by**: [Your Name]
-**Email**: your.email@example.com
-**Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+**Created by**: Scott Jermaine Guyton
+**Email**: kiljoy001@gmail.com
+**X**: [@kiljoy001](https://x.com/kiljoy001)
 
 ---
 
