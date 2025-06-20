@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+runpod
+python-dotenv
+requests
+vastai-sdk
